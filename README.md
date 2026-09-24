@@ -29,11 +29,11 @@ The following Python libraries are required to run the Jupyter Notebook:
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Mohitpatidar94/healthcare-analytics-doctor-visits.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd "Voice Project 2 Analysis"
+   cd healthcare-analytics-doctor-visits
    ```
 3. Install the dependencies:
    ```bash
